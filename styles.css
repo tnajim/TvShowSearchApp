@@ -1,0 +1,40 @@
+body {
+    height: 100%;
+    background-color: rgb(43, 43, 43);
+    color: rgb(105, 158, 207);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.container {
+    background-color: rgb(48, 45, 59);
+    border: 1px solid rgb(88, 88, 88);
+    border-radius: 10px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 1em;
+    min-height: 600px;
+}
+
+.img-div {
+    margin: auto;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.center {
+    text-align: center;
+}
+
+.result-div {
+    display: inline-block;
+    max-width: 242px;
+}
+
+.movie-title {
+    font-size: 1.2em;
+}
+
+img {
+    margin: 1em;
+}
